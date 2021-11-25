@@ -23,9 +23,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 **Merhaba {}, Benim adım {}!** ... 
 
-👼🏻Ben bir grup yöneticisi botuyum ve [bu mükemmel kişi](tg://user?id={}) tarafından yapıldım..
+👼🏻Ben bir grup yöneticisi botuyum ve @tht_herlock tarafından yapıldım..
 
-📣Gelecekteki güncellemelerim vb. - @roBotlog
+📣Gelecekteki güncellemelerim vb. - @BotlogHerlock
 
 💻İşte benim [Kaynak kodum](https://heroku.com/deploy?template=https://github.com/Must4f/ElanurBot),
 Bu linke girerek klonumu oluşturabilirsin! Fazla kurcalama!
@@ -50,7 +50,7 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAşağıdaki komutların tümü / veya ! ile kullanılabilir...\n")
 
 DONATE_STRING = """Heya, bağış yapmak istediğini duyduğuma sevindim!
-Beni şu an olduğum yere götürmek [yaratıcımın](tg://user?id={id}) çok çalışmasını gerektirdi (Aslında sadece beni [klonladı🥴](https://heroku.com/deploy?template=https://github.com/Must4f/ElanurBot)) ve her bağış ona yardımcı oluyor \
+Beni şu an olduğum yere götürmek [yaratıcımın](https://t.me/tht_herlock) çok çalışmasını gerektirdi ve her bağış ona yardımcı oluyor \
 Beni daha da iyi yapması için onu motive et. Bir kahve ısmarla🥺."""
 
 IMPORTED = {}
