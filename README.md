@@ -16,7 +16,7 @@ Alternatif olarak, [beni telegramda bulun](https://t.me/odunum)! Tüm destek sor
 
 ## Doğrudan Heroku'dan botu kurmak için aşağıdaki Heroku Deploy düğmesine de dokunabilirsiniz!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/must4f/ElanurBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HerLockDev/MemoBot)
 
 # Heroku ile kurcaksanız aşağıdaki adımlar sizi ilgilendirmiyor! Sadece deploy tuşuna basın!
 
